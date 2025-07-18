@@ -1,3 +1,25 @@
+# Cómo crear un proyecto Astro con Tailwind usando el template de BracoZS
+
+## Paso 1: Clonar el template
+
+Ejecuta el siguiente comando en tu terminal para crear un nuevo proyecto basado en el template:
+
+```bash
+npx degit BracoZS/astro_tailwind_4-template nuevo-proyecto
+```
+Esto descargará el proyecto base en la carpeta nuevo-proyecto.
+
+## Paso 2: Entrar a la carpeta del proyecto
+
+```bash
+cd nuevo-proyecto
+```
+
+¡Listo!
+
+
+---
+
 # Astro Starter Kit: Minimal
 
 ```sh
