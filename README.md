@@ -1,4 +1,4 @@
-# Cómo crear un proyecto Astro con Tailwind usando el template de BracoZS
+# Cómo crear un proyecto Astro con Tailwind usando esta plantilla
 
 ## Paso 1: Clonar el template
 
