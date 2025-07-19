@@ -15,6 +15,12 @@ Esto descargará el proyecto base en la carpeta nuevo-proyecto.
 cd nuevo-proyecto
 ```
 
+## Paso 3: Instalar dependencias
+
+```bash
+npm install
+```
+
 ¡Listo!
 
 
