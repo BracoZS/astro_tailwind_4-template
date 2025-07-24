@@ -1,27 +1,32 @@
-# Cómo crear un proyecto Astro con Tailwind usando esta plantilla
+👉[![change language](https://img.shields.io/badge/léelo_en:-español-yellow)](https://github.com/BracoZS/astro_tailwind_4-template/blob/main/README.Es.md)
 
-## Paso 1: Clonar el template
+# How to create an Astro project with Tailwind using this template
 
-Ejecuta el siguiente comando en tu terminal para crear un nuevo proyecto basado en el template:
+## Step 1: Clone the template
 
-```bash
-npx degit BracoZS/astro_tailwind_4-template nuevo-proyecto
-```
-Esto descargará el proyecto base en la carpeta nuevo-proyecto.
+Run the following command in your terminal to create a new project based on the template:
 
-## Paso 2: Entrar a la carpeta del proyecto
+> ⚠️  (Remember to replace “new-project” with the name of your project)
 
 ```bash
-cd nuevo-proyecto
+npx degit BracoZS/astro_tailwind_4-template new-project
+```
+This will download the base project to the “new-project” folder
+
+## Step 2: Enter the project folder
+
+```bash
+cd new-project
 ```
 
-## Paso 3: Instalar dependencias
+## Step 3: Install the dependencies
 
 ```bash
 npm install
 ```
 
-¡Listo!
+Done!
+
 
 
 ---
